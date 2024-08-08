@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @NurNobi203
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Html, Css
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://github.com/NurNobi203)
+- Contact me (mdnurnobiislam2003@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
